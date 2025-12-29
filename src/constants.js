@@ -39,7 +39,7 @@ export const PORTFOLIO_DATA = {
     },
     {
       id: 3,
-      title: "SM",
+      title: "learn and earn",
       description: "An interactive analytics dashboard for visualizing complex data with charts and real-time updates.",
       tech: ["React", "Chart.js", "Node.js"],
       link: "https://github.com/kanchimeghana0306-wq/SM",
